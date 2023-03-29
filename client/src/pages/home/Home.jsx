@@ -4,6 +4,7 @@ import NewProducts from "./components/NewProducts";
 import Vitrin from "./components/Vitrin";
 
 const Home = () => {
+
   return (
     <div className="container">
       <Banner />
@@ -11,6 +12,7 @@ const Home = () => {
       <NewProducts />
     </div>
   );
+
 };
 
 export default Home;
