@@ -15,7 +15,7 @@ const NewProducts = () => {
     <div>
       <div className="wrapper mx-auto">
         <h1 className="text-white  font-semibold text-2xl border-b py-3 my-5 ">
-          For You
+          New Prodcuts
         </h1>{" "}
         <Swiper
           spaceBetween={30}
